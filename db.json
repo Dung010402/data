@@ -34,11 +34,11 @@
                 }
             ],
             "imageGroup":{
-                "1": {
+                "image1": {
                     "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkqjzrs6i2f420",
                     "alt": "anh"
                 },
-                "2":{
+                "image2":{
                         "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkzrqr5kfi7194",
                         "alt": "anh"    
                 }
