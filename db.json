@@ -5,7 +5,6 @@
             "nickNameShop": "Miucho",
             "nameShop": "Miucho - Thế giới áo thun",
             "title": "Áo Polo Pique Basic Cotton 100% Ready To Wear - Thương hiệu Coolmate",
-            "coins": "299.000đ",
             "reviews": 4,
             "sold": 97,
             "coinsBefore": 299,
@@ -14,35 +13,11 @@
             "discountShop": 4,
             "quantityStock": 311,
             "imageMain": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkqjzrs6i2f420",
-            "image": [
-                
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkqjzrs6i2f420",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkzrqr5kfi7194",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkzrqr5kcp2530",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkqjzrs640qofe",
-                    "alt": "anh"
-                }
-            ],
-            "imageGroup":{
-                "image1": {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkqjzrs6i2f420",
-                    "alt": "anh"
-                },
-                "image2":{
-                        "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkzrqr5kfi7194",
-                        "alt": "anh"    
-                }
-            }
+            "image1": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkqjzrs6i2f420",
+            "image2": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkzrqr5kfi7194",
+            "image3": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lnmxiftpbmct72",
+            "image4": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkzrqr5kfi7194"
+
 
         },
         {
@@ -50,78 +25,55 @@
             "nickNameShop": "Unilever",
             "nameShop": "Unilever Việt Nam _ Health & Beauty",
             "title": "Bàn Chải Điện P/S S100 PRO - Công Nghệ Sóng Âm, Chải Sạch Mảng Bám Tới 10X",
-            "coins": "1.300.000đ",
+            "reviews": 1076,
+            "sold": 1609,
+            "coinsBefore": 1.300,
+            "coinsAfter": 823,
+            "discount": 37,
+            "discountShop":6,
+            "quantityStock": 167,
             "imageMain": "https://down-vn.img.susercontent.com/file/vn-50009109-52af2d1bd9878ec8b1cb4035a737ec2c",
-            "image": [
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-50009109-52af2d1bd9878ec8b1cb4035a737ec2c",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-v2koqo4eahjv14",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lnmxiftpbmct72",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lnmygsjn6hrue3",
-                    "alt": "anh"
-                }
-            ]
+            "image1": "https://down-vn.img.susercontent.com/file/vn-50009109-52af2d1bd9878ec8b1cb4035a737ec2c",
+            "image2": "https://down-vn.img.susercontent.com/file/6397ed73beddcdf79b0b46558971d44a",
+            "image3": "https://down-vn.img.susercontent.com/file/05a50a0eea91b96c284ce354d5083cb2",
+            "image4": "https://down-vn.img.susercontent.com/file/2a1d2780135d850d2ad62c9497f62663"
+           
         },
         {
             "id": 3,
             "nickNameShop": "LASHESUPERFOOD",
             "nameShop": "LASHE SUPERFOOD | PURITÉ",
             "title": "Combo 2 Sữa tắm Purité Hoa Anh Đào 1.1L",
-            "coins": "574.000đ",
+            "reviews": 556,
+            "sold": 765,
+            "coinsBefore": 574,
+            "coinsAfter": 487,
+            "discount": 15,
+            "discountShop":10,
+            "quantityStock": 1923,
             "imageMain": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lp0saut4vo0e26",
-            "image": [
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lp0saut4vo0e26",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lni67jyelr715a",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-loxvymu6sa5735",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-ln750jrzoldf70",
-                    "alt": "anh"
-                }
-            ]
+            "image1": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lp0saut4vo0e26",
+            "image2": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lrsgmcajn1j451",
+            "image3": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lrsgmcatmn0a1f",
+            "image4": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lrsgmccrjslcc5"
         },
         {
             "id": 4,
             "nickNameShop": "GiaHuyMask",
             "nameShop": "Gia Huy Mask",
             "title": "COMBO 10 Bịch 100 Chiếc Khẩu Trang 5D THÁI LAN , Khẩu Trang Careion Đủ Màu Kháng Khuẩn Cao Cấp",
-            "coins": "10.000đ",
+            "reviews": 1556,
+            "sold": 2765,
+            "coinsBefore": 574,
+            "coinsAfter": 487,
+            "discount": 15,
+            "discountShop":10,
+            "quantityStock": 1923,
             "imageMain": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljstq1by9urm9f",
-            "image": [
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljstq1by9urm9f",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljstq1bwy3gibf",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljstq1bxdjpe36",
-                    "alt": "anh"
-                },
-                {
-                    "src": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lmcqirsdypcv71",
-                    "alt": "anh1"
-                }
-            ]
+            "image1": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljstq1by9urm9f",
+            "image2": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq5vvs8t5tmf93",
+            "image3": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljstq1bxszya34",
+            "image4": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lmcqirsdypcv71"
         }
     ]
 }
