@@ -13,10 +13,22 @@
             "discountShop": 4,
             "quantityStock": 311,
             "imageMain": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkqjzrs6i2f420",
-            "image1": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkqjzrs6i2f420",
-            "image2": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkzrqr5kfi7194",
-            "image3": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lnmxiftpbmct72",
-            "image4": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkzrqr5kfi7194"
+            "imageGr":[
+
+                {
+                    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkqjzrs6i2f420"
+                },
+                {
+                    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkzrqr5kfi7194"
+                },                        
+                {
+
+                    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lnmxiftpbmct72"
+                },
+                {
+                    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkzrqr5kfi7194"
+                }
+            ]
 
 
         },
@@ -33,10 +45,22 @@
             "discountShop":6,
             "quantityStock": 167,
             "imageMain": "https://down-vn.img.susercontent.com/file/vn-50009109-52af2d1bd9878ec8b1cb4035a737ec2c",
-            "image1": "https://down-vn.img.susercontent.com/file/vn-50009109-52af2d1bd9878ec8b1cb4035a737ec2c",
-            "image2": "https://down-vn.img.susercontent.com/file/6397ed73beddcdf79b0b46558971d44a",
-            "image3": "https://down-vn.img.susercontent.com/file/05a50a0eea91b96c284ce354d5083cb2",
-            "image4": "https://down-vn.img.susercontent.com/file/2a1d2780135d850d2ad62c9497f62663"
+            "imageGr":[
+
+                {
+                    "image": "https://down-vn.img.susercontent.com/file/vn-50009109-52af2d1bd9878ec8b1cb4035a737ec2c"
+                },
+                {
+                    "image": "https://down-vn.img.susercontent.com/file/6397ed73beddcdf79b0b46558971d44a"
+                },                        
+                {
+
+                    "image": "https://down-vn.img.susercontent.com/file/05a50a0eea91b96c284ce354d5083cb2"
+                },
+                {
+                    "image": "https://down-vn.img.susercontent.com/file/2a1d2780135d850d2ad62c9497f62663"
+                }
+            ]
            
         },
         {
@@ -52,31 +76,26 @@
             "discountShop":10,
             "quantityStock": 1923,
             "imageMain": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lp0saut4vo0e26",
-            "image1": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lp0saut4vo0e26",
-            "image2": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lrsgmcajn1j451",
-            "image3": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lrsgmcatmn0a1f",
-            "image4": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lrsgmccrjslcc5"
+            "imageGr":[
+
+                {
+                    "image": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lp0saut4vo0e26"
+                },
+                {
+                    "image": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lrsgmcajn1j451"
+                },                        
+                {
+
+                    "image": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lrsgmcatmn0a1f"
+                },
+                {
+                    "image": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lrsgmccrjslcc5"
+                }
+            ]
         },
+        
         {
             "id": 4,
-            "nickNameShop": "GiaHuyMask",
-            "nameShop": "Gia Huy Mask",
-            "title": "COMBO 10 Bịch 100 Chiếc Khẩu Trang 5D THÁI LAN , Khẩu Trang Careion Đủ Màu Kháng Khuẩn Cao Cấp",
-            "reviews": 1556,
-            "sold": 2765,
-            "coinsBefore": 574,
-            "coinsAfter": 487,
-            "discount": 15,
-            "discountShop":10,
-            "quantityStock": 1923,
-            "imageMain": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljstq1by9urm9f",
-            "image1": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljstq1by9urm9f",
-            "image2": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq5vvs8t5tmf93",
-            "image3": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljstq1bxszya34",
-            "image4": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lmcqirsdypcv71"
-        },
-        {
-            "id": 5,
             "nickNameShop": "GiaHuyMask",
             "nameShop": "Gia Huy Mask",
             "title": "COMBO 10 Bịch 100 Chiếc Khẩu Trang 5D THÁI LAN , Khẩu Trang Careion Đủ Màu Kháng Khuẩn Cao Cấp",
