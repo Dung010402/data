@@ -257,77 +257,8 @@
             ]
 
 
-        },
-        {
-            "id": 9,
-            "nickNameShop": "Flower",
-            "nameShop": "Flower Castle Women's Clothing",
-            "title": "Bộ Đồ Ngủ Hai Mảnh Áo Không Tay Phối Bèo Mỏng Phong Cách Nhật Bản Thời Trang Mùa Hè 2024 Mới",
-            "category": "women",
-            "reviews": 270,
-            "sold": "1,8k",
-            "coinsBefore": 190,
-            "coinsAfter": 109,
-            "discount": 43,
-            "discountShop": 5,
-            "quantityStock": 77311,
-            "imageMain": "https://down-vn.img.susercontent.com/file/sg-11134201-7rcdq-lquaydricqypd4",
-            "imageGr":[
-
-                {
-                    "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7rcdq-lquaydricqypd4"
-                },
-                {
-                    "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7rcf2-lquayfxr69cxe6"
-                },                        
-                {
-
-                    "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7rcc5-lquayi4tyiqy53"
-                },
-                {
-                    "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7rcdy-lquaylin09x509"
-                }
-            ]
-
-
-        },
-        {
-            "id": 10,
-            "nickNameShop": "Magickids",
-            "nameShop": "Magickids",
-            "title": "Quần áo trẻ em Magickids bộ thun cho bé trai 35kg áo ngắn tay quần đùi chất cotton co giãn thoáng mát BR22010",
-            "category": "kid",
-            "reviews": "2,2k",
-            "sold": "9,8k",
-            "coinsBefore": 220,
-            "coinsAfter": 110,
-            "discount": 50,
-            "discountShop": 10,
-            "quantityStock": 821,
-            "imageMain": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgelt3nvk5br8b",
-            "imageGr":[
-
-                {
-                    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgelt3nvk5br8b"
-                },
-                {
-                    "image": "https://down-vn.img.susercontent.com/file/d57bab74bf61393c6aad0148e234c97b"
-                },                        
-                {
-
-                    "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22100-29cybm813sivc5"
-                },
-                {
-                    "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgelt3nvhc6v93"
-                }
-            ]
-
-
         }
-       
-
         
-
     ]
 }
 
